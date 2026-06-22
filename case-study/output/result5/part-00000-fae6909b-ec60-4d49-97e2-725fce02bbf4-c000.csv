@@ -1,0 +1,8 @@
+product_category,total_orders,returned_orders,return_percentage
+Clothing,347805,34680,9.97
+Electronics,346773,34744,10.02
+Books,347520,34832,10.02
+Beauty,349992,35070,10.02
+Home & Kitchen,351594,35260,10.03
+Sports,345930,34699,10.03
+Toys,349584,35112,10.04
